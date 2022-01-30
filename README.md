@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/86705580/151699403-a3faafb4-0cd4-485e-a622-ce970adcec00.JPG" alt="game">
+  <img src="https://user-images.githubusercontent.com/86705580/151699576-a6d0088d-0554-4aab-b345-04efdd262088.JPG" alt="game">
   <h3 align="center">Kart Racing</h3>
 </div>
 
@@ -33,6 +33,10 @@ Unity 2020.3.9 버전 이용<br>
 -  골인 - Best score, Score
 -  체크포인트
 -  esc 메뉴(게임 다시 시작, 메인 메뉴로 이동) 
+
+
+## 모델 출처 :page_with_curl:
+카트 모델 및 애니메이션 출처 : https://kkamysgame.blogspot.com/2020/11/kkamy-kart-racing.html
 
 <br><br><br>
 <p align="right">(<a href="#top">back to top</a>)</p>
